@@ -1,4 +1,4 @@
-package com.example.aog
+package br.com.sergiohc.aog
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
